@@ -2,10 +2,9 @@
 //CSE 002 Section 111
 //hw06 Root
 
-//This program uses a random number generator to simulate 100 roulette
-//games with a one dollar bet on each spin.  It simulates this scenario
-//1000 times to create data on how effective betting a dollar every game
-//for 100 games would be for having positive winnings at the casino
+//this program computes the square root of a double entered by the user
+//by using a while loop to compare a low, middle, and high value until
+//the precision is wihtin .0000001
 
 //import java scanner
     import java.util.Scanner;
