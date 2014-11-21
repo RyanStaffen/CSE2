@@ -101,6 +101,7 @@
         
 
        
-                
+                //I was able to get a count on the number of pairs with a different method but I was not sure how to sort them into 
+                //an array that counted the number of pairs for each card
     
             
