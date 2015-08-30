@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////
 //Ryan Staffen
-//CSE 002 Sec. 111
-//8/28/2014
+//CSE 002 
+//8/30/2015
 //
 // first compile the program
 //      javac WelcomeClass.java
