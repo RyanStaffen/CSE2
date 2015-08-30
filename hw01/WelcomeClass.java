@@ -15,9 +15,9 @@ public class WelcomeClass{
     public static void main(String[] args) {
 
 //  print the welcome statement
-    System.out.println("  -----------");
-    System.out.println("  | WELCOME |");
-    System.out.println("  -----------");
+    System.out.println("    -----------");
+    System.out.println("    | WELCOME |");
+    System.out.println("    -----------");
     
 //  print out the Lehigh Network ID
     System.out.println("  ^  ^  ^  ^  ^  ^");
@@ -27,6 +27,6 @@ public class WelcomeClass{
     System.out.println("  v  v  v  v  v  v");
     
 //  print autobiographical statement
-    System.out.println("I am a junior Industrial and Systems Engineering major on the Information Technology Track. This is my first experience with Java programming."  );
+    System.out.println("I am a senior Industrial and Systems Engineering major and in my free time I play hockey and enjoy boxing."  );
   }
 } 
