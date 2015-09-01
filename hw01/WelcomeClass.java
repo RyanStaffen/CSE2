@@ -27,6 +27,6 @@ public class WelcomeClass{
     System.out.println("  v  v  v  v  v  v");
     
 //  print autobiographical statement
-    System.out.println("I am a senior Industrial and Systems Engineering major and in my free time I play hockey and enjoy boxing."  );
+    System.out.println("I am a senior Industrial and Systems Engineering major and in my free time I play hockey and enjoy boxing!"  );
   }
 } 
