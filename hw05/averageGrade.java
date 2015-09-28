@@ -24,6 +24,9 @@ import java.util.Scanner;
         
         testscore = scan.nextInt();
         
+                //while statement that determines if test score is in range, prints error statement 
+                //and asks for correct input
+        
                 while (testscore < 0 || testscore > 100){
                     
                     System.out.print("That is not a valid test score, please enter a valid score: ");
@@ -32,6 +35,9 @@ import java.util.Scanner;
                     
                     break;
                 }
+                
+                //while statement that is executed with correct score input and repeated 
+                //until "999" is entered to terminate the loop and display the average
                 
                 while (testscore > 0 && testscore <= 100){
                     
