@@ -56,7 +56,11 @@ import java.util.Scanner;
                         int average = combinedscore/count;
                         
                         System.out.println("The average of the scores was: "+average);
+                        
+                        break;
                     }
+                    
+                    
                 }
         
             
