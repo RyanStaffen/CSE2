@@ -36,7 +36,8 @@ public class pyramid{
 
 
 
-
+//I could not quite figure out this pattern.  I was close but need to
+//experiment a little more with the nested loops. 
 
 
 
